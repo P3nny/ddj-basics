@@ -1,0 +1,24 @@
+[ ] Daten finden, herunterladen
+
+[ ] .csv importieren
+[ ] Daten ansehen und verstehen 
+[ ] Datei umbenennen
+[ ] Roh-Daten duplizieren und nie wieder anfassen
+[ ] Quelle(n) in einem Extrablatt speichern (mit Datum), ggf. hier auch Erklärung zu den Daten ablegen
+
+[ ] Alles oberhalb der Kopfzeile löschen 
+[ ] Verbundene Zellen trennen und doppelzeilige Überschriften entfernen 
+[ ] Metriken in die Kopfzeile bringen 
+[ ] Prüfen, ob der Inhalt der Kopfzeile sinnvoll ist 
+[ ] Weil es praktisch ist: erste Zeile (und Spalte) fixieren
+
+
+[ ] Nicht benötigte Spalten löschen
+[ ] Nicht benötigte Zeilen löschen
+[ ] Tausendertrennzeichen löschen 
+[ ] Text kürzen
+[ ] Datumsangaben korrigieren 
+[ ] Variablen in eigene Spalte ziehen
+
+[ ] Tabellenblatt mit bereinigt benennen und duplizieren
+[ ] Daten sortieren
