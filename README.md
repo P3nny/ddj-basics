@@ -6,7 +6,7 @@ So habt ihr euren eigenen Ordner, in dem ihr das Material bearbeiten könnt und 
 
 Erste Schritte: 
 Wir werden in einem Miro-Board arbeiten:
-https://miro.com/welcomeonboard/pziduBT7EKarqLSK5FGzGMJ0IFwEEknj17Qapz93nvzm47WeFTaf3tLG8Y5fcTMo
+https://miro.com/app/board/o9J_lJCjiGM=/
 
 Wir werden unter anderem DDJ-Trainingsmaterial der New York Times verwenden. Das gesamte Material findet ihr hier: 
 https://drive.google.com/drive/folders/1ZS57_40tWuIB7tV4APVMmTZ-5PXDwX9w
