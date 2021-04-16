@@ -5,6 +5,7 @@ Bitte ladet euch die Dateien für das Seminar hier erst auf euren eigenen Rechne
 So habt ihr euren eigenen Ordner, in dem ihr das Material bearbeiten könnt und in dem ihr nachschlagen könnt, wenn ihr die Handgriffe im Redaktionsalltag wieder braucht.
 
 Erste Schritte: 
+
 Wir werden in einem Miro-Board arbeiten:
 https://miro.com/app/board/o9J_lJCjiGM=/
 
