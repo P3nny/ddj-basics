@@ -10,3 +10,5 @@ https://miro.com/welcomeonboard/pziduBT7EKarqLSK5FGzGMJ0IFwEEknj17Qapz93nvzm47We
 
 Wir werden unter anderem DDJ-Trainingsmaterial der New York Times verwenden. Das gesamte Material findet ihr hier: 
 https://drive.google.com/drive/folders/1ZS57_40tWuIB7tV4APVMmTZ-5PXDwX9w
+
+Das Material kann unter Einhaltung der Lizenz https://choosealicense.com/licenses/cc-by-sa-4.0/ genutzt werden. 
