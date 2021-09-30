@@ -17,7 +17,7 @@ Name, ggf. Vorgehensweise, Vorstellung als Bild, ggf. Vorstellung als Link.
 Beispiel 1 - nur Zahlen: 
 Tierische Lebensmittel in meinem Haushalt: 0
 Zigaretten pro Tag: 25
-Sehdauer Netlify: 80 h / Woche
+Sehdauer Netflix: 80 h / Woche
 
 Beispiel 2 gezeichnet
 Beispiel 3 gefühlte Wahrheit
